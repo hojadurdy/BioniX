@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "HD_ModDB")(type "KiCad")(uri "${KIPRJMOD}/Footprint/HD_ModDB.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "HD_LibDB")(type "KiCad")(uri "${KIPRJMOD}/Library/HD_LibDB.kicad_sym")(options "")(descr ""))
+  (lib (name "HD_LibSym")(type "KiCad")(uri "${KIPRJMOD}/Library/HD_LibSym.kicad_sym")(options "")(descr ""))
+)
